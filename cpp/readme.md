@@ -3,6 +3,4 @@ w3school cpp
 `getline` is used to take string with sapce ` ` in it. 
 
 
-```cpp
-    getline(cin, variable)
-```
+```getline(cin, variable);```
